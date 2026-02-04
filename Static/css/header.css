@@ -1,0 +1,31 @@
+/* Header styles */
+  #logout:hover {
+    background-color: #f30a0a ;
+    color: #000000 ;
+
+  }
+
+  .error {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+    display: none;
+}
+.invalid {
+    border: 2px solid red;
+}
+.valid {
+    border: 2px solid green;
+}
+.form-control {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.form-select {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
